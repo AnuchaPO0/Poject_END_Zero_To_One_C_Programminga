@@ -61,7 +61,7 @@ int main(void)
         {  
             int day,inc,tt;
             printf ("SALARY = DAILY_WAGE x DAY_WORK\n");
-            printf ("BONUS = 10 PRECENT ON SALARY\n\n");
+            printf ("BONUS = 10%. SALARY\n");
             printf ("DAY WORK :: "); scanf ("%d",&day);
             printf ("DAILY WAGE:: "); scanf ("%d",&inc);
                 tt=day*inc;
